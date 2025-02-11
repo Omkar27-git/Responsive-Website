@@ -5,7 +5,8 @@ A **modern and fully responsive** landing page built using **HTML and CSS**. Thi
 ---
 
 ## 🚀 **Live Demo**  
-🔗 [View Live Project](#) *(Replace # with your deployment link when available)*  
+🔗 [View Live Project](https://Omkar27-git.github.io/Responsive-Website/
+) *(Replace # with your deployment link when available)*  
 
 ---
 
@@ -38,7 +39,7 @@ The landing page adapts smoothly to different screen sizes using **CSS Flexbox a
 
 ## 📷 **Preview**  
 
-![Landing Page Preview](preview-image.png) *(Replace with an actual screenshot of your project)*  
+![Landing Page Preview](./responsive.png) *(Replace with an actual screenshot of your project)*  
 
 ---
 
